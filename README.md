@@ -5,8 +5,7 @@
 - 😁 Pronouns: ele/dele
 <div>
   <a href="https://github.com/Ivan-Fontes-de-Assis-Santos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivan-Fontes-de-Assis-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Fontes-de-Assis-Santos&layout=compact&langs_count=16&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivan-Fontes-de-Assis-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Fontes-de-Assis-Santos&layout=compact&langs_count=16&theme=tokyonight" />
   </a>
 </div>
 <div style="display: inline_block"><br>
